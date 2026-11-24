@@ -43,12 +43,12 @@ export default function VisitSection() {
             <p className="muted">082 237 7370</p>
             <div className="social-row">
               <a
-                href="https://instagram.com/cafe_sixty.one"
+                href="https://instagram.com/cafe.sixtyone"
                 target="_blank"
                 rel="noreferrer"
                 className="social-pill"
               >
-                <Camera size={15} /> @cafe_sixty.one
+                <Camera size={15} /> @cafe.sixtyone
               </a>
               <a href="#rewards" className="social-pill primary">
                 Order Ahead

@@ -59,8 +59,8 @@ export default function GallerySection() {
       </div>
 
       <div className="gallery-cta-wrap">
-     <a
-  href="https://instagram.com/cafe_sixty.one"
+    <a
+  href="https://instagram.com/cafe.sixtyone"
   target="_blank"
   rel="noreferrer"
   className="gallery-ig-btn"
